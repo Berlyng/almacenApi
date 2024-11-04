@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Almacen.domain": {
+      "commandName": "Project"
+    },
+    "Perfil 1": {
+      "commandName": "Project"
+    }
+  }
+}
